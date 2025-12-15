@@ -1,0 +1,32 @@
+
+.product-card {
+    transition: 0.3s;
+}
+
+.product-card:hover {
+    transform: scale(1.02);
+}
+
+.btn.ghost:hover{
+    background-color: rgb(216, 213, 212);
+}
+    
+.btn.primary:hover{
+    background-color: #42545f;
+}
+
+.btn.footer:hover{
+    background-color: #42545f;
+}
+
+.toggle-body {
+     transition: all .25s ease; 
+    }
+
+    .about:hover {
+    transform: scale(1.02);
+}
+
+.about{
+    transition: 0.3s;
+}
