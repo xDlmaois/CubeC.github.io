@@ -1,1 +1,0 @@
-# CubeC-Speedcube-Shop
